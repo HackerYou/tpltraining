@@ -1,12 +1,45 @@
 # Programming with Scratch! 
 
-What is scratch? Scratch is a simple interactive programming language that was developed to be fun and easy to use!
+What is scratch? Scratch is a simple interactive programming language that was developed to be fun and easy to use! What can we do with scratch?
 
-Scratch programs are built using blocks in that interconnect with each other to performs thats. There are a couple key blocks, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into the scripts area on the right, the blocks column in the middle, and the stage on the left.
+- learn some programing concepts
+- learn some practical algorithms
+- have fun creating games, stories and art! 
 
-## Events blocks
+Scratch programs are built using blocks in that interconnect with each other to perform tasks. There are a couple key blocks to look at, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into a few important areas.
 
-These blocks are used to start a program. There are events like when the green flag is clicked, or when a certain key is pressed.
+#### The Scratch Environment
+
+- STAGE: where information is displayed / stuff happens
+- SPRITE: an image/graphic that we can control 
+- SCRIPT: another name for a program or method, tells the sprite what to do
+- SEQUENCE/BLOCK: a simple script or program. the computer will follow the instructions in order.
+
+
+## Menu Overview
+
+Here are a couple key block types that will help you program some great projects!
+
+### Events blocks
+Used to start a program, should the program start on the click of the green flag, or when a key is pressed.
+
+### Motion
+The Motion blocks are used to locate, orient, and move a sprite (their position on the stage).
+
+### Control
+The Control blocks give you the ability to control the flow of your program, should something loop 10 times? Should something only run if a condition is true?
+
+### Operators
+The Operators blocks let you do addition, pick a random number, or check if something greater than something else.
+
+### Looks
+The Looks blocks have instructions for setting the colour, size, visiblity of a sprite.
+
+### Sensing
+The Sensing blocks get some information from the user or some other part of the page.
+
+### Sounds 
+The Sounds block let us use a sound library, you can also upload your own sounds to use in your programs.
 
 ------ 
 
@@ -64,6 +97,16 @@ These blocks are used to start a program. There are events like when the green f
 **Potential Solution:**
 
 
+
+#### Challenge: Sneezing Cat
+**Objective** Scratch the cat has to sneeze! When the S key is pressed, Make the cat say "ahhh" and grow 5 bigger 20 times. then, have the cat say "chew" and shrink the cat by 5 (repeat that 20 times too!)
+
+**Where to guide learners**
+- **Events** (Dark Gold) - tie the action to the 's' key using an event in this panel
+- **Control** (yellow) - to have your block repeat, find a repeat loop here
+-**Looks** (purple) - change what your sprite says and looks like here! 
+
+**Potential Solution** 
 
 
 ### Level 3
