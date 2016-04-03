@@ -1,37 +1,45 @@
 # Programming with Scratch! 
 
-What can we do with scratch?
+What is scratch? Scratch is a simple interactive programming language that was developed to be fun and easy to use! What can we do with scratch?
 
 - learn some programing concepts
 - learn some practical algorithms
 - have fun creating games, stories and art! 
 
-The Scratch Environment
+Scratch programs are built using blocks in that interconnect with each other to perform tasks. There are a couple key blocks to look at, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into a few important areas.
+
+#### The Scratch Environment
 
 - STAGE: where information is displayed / stuff happens
 - SPRITE: an image/graphic that we can control 
 - SCRIPT: another name for a program or method, tells the sprite what to do
-- SEQUENCE/BLOCK: a simple script or program. the computer will follow the instructions in order 
+- SEQUENCE/BLOCK: a simple script or program. the computer will follow the instructions in order.
 
 
-MENU OVERVIEW
+## Menu Overview
 
-Looks
-- Has instructions for setting the colour, size, visiblity of a sprite 
+Here are a couple key block types that will help you program some great projects!
 
+### Events blocks
+Used to start a program, should the program start on the click of the green flag, or when a key is pressed.
 
-Motion
-- how to locate, orient, and move a sprite (their position on the stage)
+### Motion
+The Motion blocks are used to locate, orient, and move a sprite (their position on the stage).
 
-Control
+### Control
+The Control blocks give you the ability to control the flow of your program, should something loop 10 times? Should something only run if a condition is true?
 
-Events
+### Operators
+The Operators blocks let you do addition, pick a random number, or check if something greater than something else.
 
-Sensing
-- get some information from the user or some other part of the page
+### Looks
+The Looks blocks have instructions for setting the colour, size, visiblity of a sprite.
 
-Sounds 
-- there is a sound library, you can also upload your own sounds to use
+### Sensing
+The Sensing blocks get some information from the user or some other part of the page.
+
+### Sounds 
+The Sounds block let us use a sound library, you can also upload your own sounds to use in your programs.
 
 ------ 
 
