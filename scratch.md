@@ -1,13 +1,12 @@
 # Programming with Scratch! 
 
-What is scratch? Scratch is a simple interactive programming 
+What is scratch? Scratch is a simple interactive programming language that was developed to be fun and easy to use!
 
+Scratch programs are built using blocks in that interconnect with each other to performs thats. There are a couple key blocks, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into the scripts area on the right, the blocks column in the middle, and the stage on the left.
 
-Motion
+## Events blocks
 
-Control
-
-Events
+These blocks are used to start a program. There are events like when the green flag is clicked, or when a certain key is pressed.
 
 ------ 
 
