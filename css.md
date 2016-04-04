@@ -1,3 +1,5 @@
+![](images/torontopubliclibrarylogo.png)
+
 # CSS
 HTML on it's own is not very pretty. That's where CSS comes in. It allows us to add colour, dimensions and personality to our content. CSS is a different language than HTML but they go together very well.
 
@@ -40,9 +42,3 @@ section {
 ```
 
 We keep doing this until our page is styled and ready to go!
-
-
-
-
-
-
