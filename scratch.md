@@ -4,7 +4,8 @@ What is scratch?
 
 "Scratch is a new programming language that makes it easy to create your
 own interactive stories, animations, games, music, and art -- and share your
-creations on the web.
+creations on the web."
+
 Because Scratch has been designed for kids, it's easy to learn and use - but it still teaches some fundamental programming concepts that can create complex programs, games, and educational tools. 
 
 Scratch can help kids learn about:
@@ -23,6 +24,8 @@ Scratch programs are built using blocks in that interconnect with each other to 
 - SPRITES WINDOW: sits below the stage, and contains a list of sprites (animated images) that you're using in your current project. We can control these sprites with our program. 
 - BLOCK PALLETE : This section in the middle of the window contains all the programming blocks you can use. They are organized into categories, detailed below. 
 - SCRIPTS AREA : This section to the right of the stage contains all the programming blocks (sequences of instructions). You can drag blocks from the block pallette into the scripts area to build up your scripts. 
+
+
 
 ## Block Overview
 
