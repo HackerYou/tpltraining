@@ -1,6 +1,6 @@
 # HTML
 
-HTML is made up of predefined _tags_ that wrap our content and define how it should be presented. In the pre-written HTML that Thimble provides, we can see the following tags.
+HTML is made up of predefined _tags_ that wrap our content and define how it should be presented. You might hear the term _tags_ or _elements_ when people refer to HTML, for our purpose these are one in the same. In the pre-written HTML that Thimble provides, we can see the following tags.
 
 * `<html>`
 * `<head>`
@@ -40,7 +40,7 @@ Of course though, there are no tags called `<tagname>`, there are more descripti
 - `<footer>` - The footer tag can be used to group content together that completes the page or the section.
 
 ## Links
-The Internet is made up of files that we can load into our browsers. To see these pages we need to use 'links' to see them. Within our web pages, we can make text or a button 'link' to another page so we can help people navigate the Internet.
+The internet is made up of files that we can load into our browsers. To see these pages we need to use 'links' to see them. Within our web pages, we can make text or a button 'link' to another page so we can help people navigate the internet.
 
 A link is what is known as an 'anchor' tag and works just like a `<p>` tag, but also requires some additional information.
 

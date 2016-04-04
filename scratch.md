@@ -6,22 +6,21 @@ What is scratch? Scratch is a simple interactive programming language that was d
 - learn some practical algorithms
 - have fun creating games, stories and art! 
 
-Scratch programs are built using blocks in that interconnect with each other to perform tasks. There are a couple key blocks to look at, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into a few important areas.
+Scratch programs are built using blocks that interconnect with each other to perform tasks. There are a couple key blocks to look at, Events, Motion and Control. These blocks allow you to control the sprite, or sprites you have on the screen. The interface is broken up into a few important areas.
 
 #### The Scratch Environment
 
-- STAGE: where information is displayed / stuff happens
-- SPRITE: an image/graphic that we can control 
-- SCRIPT: another name for a program or method, tells the sprite what to do
-- SEQUENCE/BLOCK: a simple script or program. the computer will follow the instructions in order.
-
+- STAGE: where information is displayed / stuff happens.
+- SPRITE: an image/graphic that we can control .
+- SCRIPT: another name for a program or method, tells the sprite what to do.
+- SEQUENCE/BLOCK: a simple script or program, the computer will follow the instructions in order.
 
 ## Menu Overview
 
 Here are a couple key block types that will help you program some great projects!
 
 ### Events blocks
-Used to start a program, should the program start on the click of the green flag, or when a key is pressed.
+Used to start a program, should the program start on the click of the green flag, or when a key is pressed?
 
 ### Motion
 The Motion blocks are used to locate, orient, and move a sprite (their position on the stage).
