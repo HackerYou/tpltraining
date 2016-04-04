@@ -128,3 +128,112 @@ If you don't mind the order that the content comes in, use a `ul`. For example, 
 	<li>Broccoli</li>
 </ul>
 ```
+
+### HTML Cheat sheet
+
+h1 - An `h1` tag is the most important heading on the page. It is used for stuff like the title of the page.
+
+```html
+<h1>Toronto Public Library Website</h1>
+```
+
+h2 - `h2` tags can be used for things like subtitles.
+
+```html
+<h2>Library locations</h2>
+```
+
+h3 - `h3` tags are used for titles that are not as important as subtitles.
+
+```html
+<h3>What's New</h3>
+```
+
+p - paragraph tags are used to hold text!
+
+```html
+<p>Zippo doesn't want to be an ordinary hippo. He wants to be super! Being good at swimming and splashing in mud aren't really superpowers, though.</p>
+```
+
+a - Want to link to another page or site? Use an anchor tag. The anchor tag has an attribute called `href` that is used for the link.
+
+```html
+<a href="http://www.torontopubliclibrary.ca/">Books!</a>
+```
+
+img - If you want to put an image on the page use the image tag. Add the image path to the src attribute. 
+
+```html
+<img src="dog.jpg" />
+```
+
+ul - Want to make a list, use the `ul` element. 
+
+```html
+<ul>
+	<li>List item</li>
+</ul>
+```
+
+ol - Want to make an ordered list, use the `ol` element. 
+
+```html
+<ol>
+	<li>List item</li>
+</ol>
+```
+
+li - The `li` tag is used for to make list items! The items inside of a `ul` or `ol`.
+
+```html
+<li>A list item!</li>
+```
+
+article - Used to group your content together.
+
+```html
+<article>
+	<h2>Zippo the super hippo</h2>
+	<p>Zippo doesn't want to be an ordinary hippo. He wants to be super! Being good at swimming and splashing in mud aren't really superpowers, though.</p>
+</article>
+```
+
+section - A tag used to contain multiple groups of content.
+
+```html
+<section>
+ 	<article>
+		<h2>Zippo the super hippo</h2>
+		<p>Zippo doesn't want to be an ordinary hippo. He wants to be super! Being good at swimming and splashing in mud aren't really superpowers, though.</p>
+ 	</article>
+ 	<article>
+		<h2>Perfect picnic</h2>
+		<p>A hilarious story from the author of Those Pesky Rabbits about friendship, perfectionists, and losing your sandwiches.</p>
+ 	</article>
+</section>
+```
+
+header - The header tag is used to show the header of a page or section.
+
+```html
+<header>
+	<h1>Toronto Public Library</h1>
+</header>
+```
+
+footer - The footer tag can be used to group content together that completes the page or the section.
+
+```html
+<footer>
+	<p>Toronto Public Library © 2016</p>
+</footer>
+```
+
+
+
+
+
+
+
+
+

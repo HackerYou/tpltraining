@@ -130,6 +130,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Control** (gold) - we'll need to use some if statements here in combination with some operators (green, below) to check what the answer is, and if it fits our criteria. inside of these blocks, you can change the background, add more sprites, and do whatever you like inside!
 - **Operators** (green) - this section contains math operations that will enable you to check whether the answer (age) meets certain criteria.
 
+**Potential Solution** https://scratch.mit.edu/projects/104068102/
 
 ### Level 3
 
@@ -158,7 +159,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Controls** (gold) - controls are used to control the program, want it to repeat, wait, use some controls!
 - **Pen** (green) - use the pen to actually draw your shape. You can set pen colour (numbers correspond to different colours) - can you make it choose a random colour every time around?
 
-**Possible Solution:**
+**Possible Solution:** https://scratch.mit.edu/projects/104070096/
 
 #### Challenge: Pong!
 **Objective** Make a classic pong game. You have a paddle that can be controlled by the arrow keys, and a ball bouncing around the screen. Make sure you don't miss the ball! If the ball is lost, you lose! You will need to make your own paddle in the sprites menu by clicking on the paintbrush and drawing it! You'll also need a ball - you can either make your own or find one from the availabel sprites. Finally, edit the background of your game to have a red line at the bottom of the page, under your paddle - if the ball hits the red line, the game is over.
@@ -168,3 +169,4 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Motion** (dark blue) This is where the code to control the motion of the ball and the motion of the paddle is. We will want to start the ball off somehwere each time, make it bounce off the edge if it hits the edge, and if it hits the paddle, bounce off that too and go in an unexpected (random) direction. For the paddle - set the paddle to follow the mouse in the x direciton to have it glide horizontally across the screen.
 - **Control** (gold) we will want our game scripts to run indefinitely until the ball touches the red line, at which point we stop everything.
 - **Sensing** (light blue) - detect whether the ball is touching the red line or the paddle sprite here.
+**Possibile Solution:** https://scratch.mit.edu/projects/104070269/
