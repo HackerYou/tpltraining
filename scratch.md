@@ -26,12 +26,13 @@ Scratch programs are built using blocks in that interconnect with each other to 
 - SCRIPTS AREA : This section to the right of the stage contains all the programming blocks (sequences of instructions). You can drag blocks from the block pallette into the scripts area to build up your scripts. 
 
 
+
 ## Block Overview
 
 Here are a couple key block types that will help you program some great projects!
 
 ### Events blocks
-Used to start a program, should the program start on the click of the green flag, or when a key is pressed.
+Used to start a program, should the program start on the click of the green flag, or when a key is pressed?
 
 ### Motion
 The Motion blocks are used to locate, orient, and move a sprite (their position on the stage).
