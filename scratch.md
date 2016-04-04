@@ -67,7 +67,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Events** (dark gold) - use these blocks to determine when the movement should start.
 - **Motion** (dark blue) - use the move block to determine how far to move the sprite.
 
-**Possible Solution:**
+**Possible Solution:** https://scratch.mit.edu/projects/104065802/
 
 
 #### Challenge: Click and move
@@ -79,7 +79,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Motion** (dark blue) - these blocks are used to move the sprite around, you can more in steps, rotate, or maybe glide to an x/y position.
 - **Looks** (royal purple) - the blocks in here allow you to change things about the sprites.
 
-**Possible Solution:**
+**Possible Solution:** https://scratch.mit.edu/projects/104066330/
 
 
 #### Challenge: Square dancing
@@ -93,7 +93,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Pen** (green) - use the pen to actually draw your shape. You can set pen colour (numbers correspond to different colours) - can you make it choose a random colour every time around?
 
 
-**Possible Solution:**
+**Possible Solution:** https://scratch.mit.edu/projects/104066904/
 
 
 ### Level 2
@@ -107,7 +107,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Motion** (dark blue) - move your sprites around using the x and y axis. (hint: the y axis is up and down, and the x axis is left and right!)
 - **Looks** (purple) - make your sprite say something here
 
-**Potential Solution:**
+**Potential Solution:** https://scratch.mit.edu/projects/104067543/
 
 
 
@@ -119,7 +119,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Control** (yellow) - to have your block repeat, find a repeat loop here
 -**Looks** (purple) - change what your sprite says and looks like here!
 
-**Potential Solution**
+**Potential Solution** https://scratch.mit.edu/projects/104067955/
 
 #### Challenge: Decorate The Rom!
 **Objective** Scratch wants to decorate the room for you, but first he wants to find out how old you are! Can you make Scratch the cat ask you how old you are, and depending on what you answer - decorate the room differently? Decorate one room for kids that are younger than 5, one for kids that are between 5 and 10, and one for kids that are older than 10! Use whatever backdrop and other sprites you like - and have some fun with what happens in the room!
@@ -142,7 +142,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 - **Sensing** (blue) - this is the section where you can detect different keyboard events and whether one thing is touching another on the screen.
 - **Motion** (dark blue) - move your sprites around using the x and y axis. (hint: the y axis is up and down, and the x axis is left and right!)
 
-**Possible Solution:**
+**Possible Solution:** https://scratch.mit.edu/projects/104068927/
 
 **Devin:**
 
