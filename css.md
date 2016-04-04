@@ -38,3 +38,11 @@ section {
 	background-color: red;
 }
 ```
+
+We keep doing this until our page is styled and ready to go!
+
+
+
+
+
+

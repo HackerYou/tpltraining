@@ -18,28 +18,29 @@ Most tags also have a matching closing tag that is written **almost** exactly th
 </tagname>
 ```
 
-Inside of the closing and opening tags, we can place content such as text. The full group of opening tag, content and a closing tag is what is known as an _element_.
+Inside of the closing and opening tags, we can place content such as text.
 
 ```html
 <tagname>This is content</tagname>
 ```
 
-We can even put tags inside of other tags, just make sure you're closing the elements in the right order
+We can even put tags inside of other tags, just make sure you're closing the tags in the right order.
+
 ```html
-<tagname>This is content <tagname2>This is other content</tagname></tagname>
+<tagname>This is content <tagname2>This is other content</tagname2></tagname>
 ```
 
 Of course though, there are no tags called `<tagname>`, there are more descriptive tags we can use to build our webpages. Some available tags are:
 
 - `<p>` - Paragraphs used to 'wrap' text.
-- `<header>` - The header tag is used to show the header of a page or section
-- `<section>` - A section of the page
-- `<article>` _ An article, or group of content on the page
-- `<h1>`, `<h2>`, `<h3>` - Content headings. Can be used to create importance of content throughout page.
+- `<header>` - The header tag is used to show the header of a page or section.
+- `<section>` - A section of the page.
+- `<article>` _ An article, or group of content on the page.
+- `<h1>`, `<h2>`, `<h3>` - Content headings. Can be used to create importance of content throughout page. An `h1` is the more important heading on the page.
 - `<footer>` - The footer tag can be used to group content together that completes the page or the section.
 
 ## Links
-The internet is made up of files that we can load into our browsers. To see these pages we need to use 'links' to see them. Within our web pages, we can make text or a button 'link' to another page so we can help people navigate the internet.
+The Internet is made up of files that we can load into our browsers. To see these pages we need to use 'links' to see them. Within our web pages, we can make text or a button 'link' to another page so we can help people navigate the Internet.
 
 A link is what is known as an 'anchor' tag and works just like a `<p>` tag, but also requires some additional information.
 
@@ -60,13 +61,13 @@ Besides text on the internet, there are also images. Images are used in HTML a b
 <img>
 ```
 
-To tell the `img` tag what image to load in, we provide an `src` attribute that points to the location of the image file.
+To tell the `img` tag what image to load in, we provide a `src` attribute that points to the location of the image file.
 
 ```html
 <img src="dog.jpg">
 ```
 
-With every image we include, it's important to also include another attribute that will help people understand what image should be there if they are blind or the image doesn't load. We can do this by providing another attribute called `alt` where we pass in 'alternate text'.
+With every image we include, it's important to also include another attribute that will help people understand what image should be there if they are blind or the image doesn't load. We can do this by providing another attribute called `alt` where we put out alternate text, or a small description of the image.
 
 ```html
 <img src="dog.jpg" alt="A picture of a cool dog">
@@ -81,4 +82,54 @@ With every image, there should be a caption that helps explain the image. To gro
 </figure>
 ```
 
-## Links
+## Lists
+
+Images and links are great! But what if we want to create some organization in our content? In HTML we have lists to help us do this, there is the `ul`, `ol` and `li` tag. 
+
+```html
+<ul>
+	<li>List item</li>
+</ul>
+```
+
+`ul` is an unordered list, inside of this tag we can put as many `li` tags inside of it as we want. `li` tags are list item tags, these will hold our content.
+
+```html
+<ol>
+	<li>List item</li>
+</ol>
+```
+
+`ol` is an ordered list, the only different between this tag and the `ul` tag is that an `ol` tag is used to create an ordered list of items. Visually a `ol` will have numbers beside each item, while a `ul` will just have bullets.
+
+#### When to use `ul` vs `ol`
+
+When should you use a `ul` or an `ol`. Well if you need you information in a specific order, pick `ol`. For example a list of your top 5 favourite movies. 
+
+```html
+<ol>
+	<li>Harry Potter and the Deathly Hallows Part 2</li>
+	<li>Harry Potter and the Deathly Hallows Part 1</li>
+	<li>Harry Potter and the Half-Blood Prince</li>
+	<li>Harry Potter and the Order of the Phoenix</li>
+	<li>Harry Potter and the Goblet of Fire</li>
+</ol>
+```
+
+If you don't mind the order that the content comes in, use a `ul`. For example, a list of groceries would work well as a `ul`.
+
+```html
+<ul>
+	<li>Cheese</li>
+	<li>Chips</li>
+	<li>Ice Cream</li>
+	<li>Broccoli</li>
+</ul>
+```
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 # Programming
 
-Programming languages are used to communicate a set of instructions to a machine. There are many different programming languages for different situations / projects: Objective-C and Swift are used for iPhone apps. Java is used for Android Apps. Ruby, Python and PHP are great for websites and web apps.
+Programming languages are used to communicate a set of instructions to a machine. There are many different programming languages for different situations / projects: Objective-C and Swift are programming languages used for iPhone apps. Java is a programming language used for Android Apps. Ruby, Python and PHP are great for websites and web apps.
 
 The role of programming is to think of a solution to a real-world problem and break the solution down into "code" (simple mechanical instructions that the computer can understand). The computer simply runs the series of instructions in it's environment.
 
@@ -26,7 +26,7 @@ In small groups, write out detailed step by step instructions for how to make a 
 
 ## Pseudocode
 
-Sometimes when you're writing JavaScript and other programming language it can be helpful to road-map the detailed steps your program will carry out in plain English, just like we did above.  This is called **pseudocode** and it's a very helpful strategy for getting your ideas about how a program runs out down without worrying about the specific syntax of how to write it. Think of it like outlining an essay with point form notes before going back and filling in each point with complete sentences.
+Sometimes when you're writing programs it can be helpful to road-map the detailed steps your program will carry out in plain English, just like we did above.  This is called **pseudocode** and it's a very helpful strategy for getting your ideas about how a program runs out down without worrying about the specific syntax of how to write it. Think of it like outlining an essay with point form notes before going back and filling in each point with complete sentences.
 
 ````
 when the user scrolls down the page:
@@ -36,3 +36,8 @@ when the user scrolls down the page:
 * otherwise
 	- hide the tooltip
 ````
+
+
+
+
+
