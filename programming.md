@@ -1,3 +1,5 @@
+![](images/torontopubliclibrarylogo.png)
+
 # Programming
 
 Programming languages are used to communicate a set of instructions to a machine. There are many different programming languages for different situations / projects: Objective-C and Swift are programming languages used for iPhone apps. Java is a programming language used for Android Apps. Ruby, Python and PHP are great for websites and web apps.
@@ -36,8 +38,3 @@ when the user scrolls down the page:
 * otherwise
 	- hide the tooltip
 ````
-
-
-
-
-

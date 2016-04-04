@@ -1,3 +1,5 @@
+![](images/torontopubliclibrarylogo.png)
+
 # HTML
 
 HTML is made up of predefined _tags_ that wrap our content and define how it should be presented. You might hear the term _tags_ or _elements_ when people refer to HTML, for our purpose these are one in the same. In the pre-written HTML that Thimble provides, we can see the following tags.
@@ -84,7 +86,7 @@ With every image, there should be a caption that helps explain the image. To gro
 
 ## Lists
 
-Images and links are great! But what if we want to create some organization in our content? In HTML we have lists to help us do this, there is the `ul`, `ol` and `li` tag. 
+Images and links are great! But what if we want to create some organization in our content? In HTML we have lists to help us do this, there is the `ul`, `ol` and `li` tag.
 
 ```html
 <ul>
@@ -104,7 +106,7 @@ Images and links are great! But what if we want to create some organization in o
 
 #### When to use `ul` vs `ol`
 
-When should you use a `ul` or an `ol`. Well if you need you information in a specific order, pick `ol`. For example a list of your top 5 favourite movies. 
+When should you use a `ul` or an `ol`. Well if you need you information in a specific order, pick `ol`. For example a list of your top 5 favourite movies.
 
 ```html
 <ol>
@@ -126,10 +128,3 @@ If you don't mind the order that the content comes in, use a `ul`. For example, 
 	<li>Broccoli</li>
 </ul>
 ```
-
-
-
-
-
-
-
