@@ -1,3 +1,5 @@
+![](images/torontopubliclibrarylogo.png)
+
 # Thimble
 
 [Mozilla Thimble](https://thimble.mozilla.org/en-US/) is a free, online tool that allows HTML and CSS to be written directly in the browser and instantly see the result. Thimble also offers the ability to create pre-written projects that can be modified ('remixed') by learners and then published and shared online.
