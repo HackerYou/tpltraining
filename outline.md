@@ -1,3 +1,5 @@
+![](images/torontopubliclibrarylogo.png)
+
 # What is Code.
 Code is a way that we as humans can interact with machines. When we use a computer, a phone or a tablet, we are using pre-defined commands to complete tasks.
 
