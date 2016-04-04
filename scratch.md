@@ -57,7 +57,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 
 #### Challenge: Walk the walk
 
-**Objective:** Pick a sprite, you can use the cat that is the default, or pick a new one. Can you make the character move across the screen 10 steps 10 steps at a time?
+**Objective:** 	Pick a sprite! You can use the default cat (Scratch!) or pick a new one. Can you make the character move across the screen 10 steps at a time?
 
 **Where to guide learns:**
 
@@ -69,7 +69,8 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 
 #### Challenge: Click and move
 
-**Objective:** When you click on the sprite(cat) can you make it glide to x 100 and y 0 and then say something?
+**Objective:** When you click on Scratch, can you make him glide to X: 100 and Y: 0 and then say something?
+
 
 **Where to guide learns:**
 - **Events** (dark gold) - use these blocks to start some code, there is a click event for example
@@ -81,7 +82,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 
 #### Challenge: Square dancing
 
-**Objective:** Scratch the cat wants to do dancing! Can you make them dance in a square? Have scratch move for 50 steps, wait 1 second turn 90deg and wait 1 second. Then repeat 4 times! Bonus challenge: can you make the cat draw a hexagon? What would you need to change?
+**Objective:** Scratch the cat wants to dance! Can you make him dance in a square? Have Scratch move for 50 steps, wait 1 second, turn 90 degrees, and then wait 1 second.  Repeat 4 times! Bonus: can you make the cat dance in a hexagon? What would you need to change? 
 
 **Where to guide learners:**
 - **Events** (dark gold) - use these blocks to start some code, there is a click event for example
@@ -96,8 +97,8 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 ### Level 2
 
 #### Challenge: I Love Cheesy Puffs
-**Objective:** You will need 2 sprites: one character to walk around the room, and a bowl of cheesy puffs! Can you make your character move around the space when you press the arrow keys (up, down, left, right) and, if they touch the bowl of cheesy puffs, say “I love cheesy puffs!” The character shouldn't say anything unless they are actually touching the bowl. 
-
+**Objective:** You will need 2 sprites: one character to walk around the room, and a bowl of cheesy puffs. Can you make your character move around the space when you press the arrow keys (up, down, left, right) and, if they touch the bowl of cheesy puffs, say “I love cheesy puffs!”? The character shouldn't say anything unless they are actually touching the bowl.
+ 
 **Where to guide learners:**
 - **Control** (yellow) - you’ll need to use some if statements to check if an arrow key is being pressed, and if the cheesy puffs are being touched. You’ll also need to figure out how to make these things happen all the time, not just once!
 - **Sensing** (blue) - this is the section where you can detect different keyboard events and whether one thing is touching another on the screen.
@@ -119,7 +120,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 **Potential Solution** 
 
 #### Challenge: Decorate The Rom!
-**Objective** Scratch wants to decorate the room for you, but first he wants to find out how old you are! Can you make Scratch the cat ask you how old you are, and depending on what you answer - decorate the room differently? Decorate one room for kids that are younger than 5, one for kids that are between 5 and 10, and one for kids that are older than 10! Use whatever backdrop and other sprites you like - and have some fun with what happens in the room!
+**Objective** Scratch wants to decorate the room for you, but first he wants to find out how old you are! Can you make Scratch the cat ask you how old you are? Depending on what you answer, Scratch will decorate the room differently. Make one room for kids that are younger than 5, one for kids that are between 5 and 10, and one for kids that are older than 10. Use whatever backdrop and other sprites you like - and have some fun with what happens in the room! 
 
 **Where to guide learners**
 - **Sensing** (blue) - this is where you can get a sprite to ask a question. There is also an answer button that creates something called a variable - a place to store information that we can use in whatever way we want later. The answer will be equal to whatever the user types into the box when the question is asked! 
@@ -131,7 +132,7 @@ The Sounds block let us use a sound library, you can also upload your own sounds
 
 
 #### Challenge: Devin and the ghoul
-**Objective:** Devin does not like ghouls! However this is one flying above them! Can you make a little game with two sprites, Devin and a Ghoul or ghost! Make Devin be able to move left and right with the arrow keys, and have the ghoul forever move 10 steps, but when they hit the edge they should bounce! Hint, rotate the ghoul at first to get them moving all over the screen. And if you have multiple sprites, clicking on one in the sprites panel will show you the scripts area for that sprite.
+**Objective:** Devin does not like ghouls. Oh no - there is one flying above him! Can you make a game with two sprites, Devin and a Ghoul or ghost? Make Devin move left and right with the arrow keys. Using a forever loop, make the ghoul move 10 steps and bounce when it hits the edge. Hint: rotate the ghoul at first to get them moving all over the screen. If you have multiple sprites, clicking on one of them will show you all of the scripts for that particular sprite.  
 
 **Where to guide learners:**
 - **Events** (dark gold) - use these blocks to determine when the movement should start.
