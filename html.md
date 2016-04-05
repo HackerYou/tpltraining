@@ -131,7 +131,7 @@ If you don't mind the order that the content comes in, use a `ul`. For example, 
 
 ### HTML Cheat sheet
 
-h1 - An `h1` tag is the most important heading on the page. It is used for stuff like the title of the page.
+h1 - An `h1` tag is the most important heading on the page. It is used for things like the title of the page.
 
 ```html
 <h1>Toronto Public Library Website</h1>
@@ -149,7 +149,7 @@ h3 - `h3` tags are used for titles that are not as important as subtitles.
 <h3>What's New</h3>
 ```
 
-p - paragraph tags are used to hold text!
+p - Paragraph tags are used to hold text.
 
 ```html
 <p>Zippo doesn't want to be an ordinary hippo. He wants to be super! Being good at swimming and splashing in mud aren't really superpowers, though.</p>
@@ -167,7 +167,7 @@ img - If you want to put an image on the page use the image tag. Add the image p
 <img src="dog.jpg" />
 ```
 
-ul - Want to make a list, use the `ul` element. 
+ul - Want to make a list? Use the `ul` element. 
 
 ```html
 <ul>
@@ -175,7 +175,7 @@ ul - Want to make a list, use the `ul` element.
 </ul>
 ```
 
-ol - Want to make an ordered list, use the `ol` element. 
+ol - Want to make an ordered list? Use the `ol` element. 
 
 ```html
 <ol>
@@ -183,7 +183,7 @@ ol - Want to make an ordered list, use the `ol` element.
 </ol>
 ```
 
-li - The `li` tag is used for to make list items! The items inside of a `ul` or `ol`.
+li - The `li` tag is used for to make list items! The items go inside of a `ul` or `ol`.
 
 ```html
 <li>A list item!</li>
