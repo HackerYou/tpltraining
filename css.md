@@ -45,35 +45,35 @@ We keep doing this until our page is styled and ready to go!
 
 ## Cheat Sheet
 
-background: This property is used to add colour and images to your elements background.
+background: This property is used to add colour and images to an element's background.
 
-color: This property is used to colour our text.
+color: This property is used to colour our text. (You need to spell it the American way!)
 
-font-size: The font-size property lets you determine how big or small your text should be, we can use values like 15px or 90px to add size!
+font-size: The font-size property lets you determine how big or small your text should be. We can use values like 15px or 90px to add size!
 
 font-weight: Do you want bold text, or just normal? Use the font-weight property to change the style of your text.
 
-letter-spacing: Want to create some neat spaced out text, use letter-spacing to put space between each letter.
+letter-spacing: Want to create some neat spaced out text? Use letter-spacing to put more or less space between each letter.
 
-line-height: Text to close together? Use line-height to add space between lines!
+line-height: Text too close together? Use line-height to add space between lines!
 
 width: Width allows us to add dimension to our elements. We can use values like 300px or 45%.
 
 height: Height gives us the ability to size up our elements. 
 
-padding: Want a little space on the inside of your elements? Add a little padding. 
+padding: Want a little space on the inside of your elements? Add a some padding. 
 
-margin: Need space around something? Margin is good for that.
+margin: Need space between elements? Margin is good for that.
 
-border-width: Want to set a border, user border-width to get a size for your border.
+border-width: Want to set a border? Use border-width to decide how thick it should be.
 
-border-style: Set a solid, dotted, or dashed border.
+border-style: Choose a solid, dotted, or dashed border.
 
-border-color: Use colours like, red, green or palegoldenrod to give your borders style!
+border-color: Use colours like, red, green or palegoldenrod to give your borders some colour!
 
 text-decoration: Want your text to have an underline? Use text-decoration to set an underline or overline.
 
-Resources: 
+More Resources: 
 http://css.cool/
 http://adamschwartz.co/magic-of-css/
 http://www.flexboxdefense.com/
