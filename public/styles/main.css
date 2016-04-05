@@ -155,6 +155,10 @@ pre code.hljs {
 }
 #wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{list-style-position:outside!important;margin-left:2rem;}
 
+#wrapper {
+  margin-top: 30px;
+}
+
 header.mainTop {
   border-bottom: 1px solid lightgray;
 }
